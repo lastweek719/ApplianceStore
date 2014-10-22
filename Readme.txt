@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+Hi
+=======
 nonono
+>>>>>>> master
